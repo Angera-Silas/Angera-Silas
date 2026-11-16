@@ -1,0 +1,80 @@
+name: Update Experience Years
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at 00:00 UTC
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-experience:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Calculate experience
+        id: calc
+        run: |
+          START_DATE="2022-10-06"
+          CURRENT_DATE=$(date -u +%Y-%m-%d)
+          
+          # Calculate years, months, days
+          START_EPOCH=$(date -u -d "$START_DATE" +%s)
+          CURRENT_EPOCH=$(date -u -d "$CURRENT_DATE" +%s)
+          DIFF_DAYS=$(( (CURRENT_EPOCH - START_EPOCH) / 86400 ))
+          
+          YEARS=$(( DIFF_DAYS / 365 ))
+          REMAINING_DAYS=$(( DIFF_DAYS % 365 ))
+          MONTHS=$(( REMAINING_DAYS / 30 ))
+          DAYS=$(( REMAINING_DAYS % 30 ))
+          
+          if [ $YEARS -eq 1 ]; then
+            YEAR_STR="1 year"
+          else
+            YEAR_STR="${YEARS} years"
+          fi
+          
+          if [ $MONTHS -eq 1 ]; then
+            MONTH_STR="1 month"
+          else
+            MONTH_STR="${MONTHS} months"
+          fi
+          
+          if [ $DAYS -eq 1 ]; then
+            DAY_STR="1 day"
+          else
+            DAY_STR="${DAYS} days"
+          fi
+          
+          EXPERIENCE="${YEAR_STR}, ${MONTH_STR}, ${DAY_STR}"
+          EXPERIENCE_SHORT="${YEARS}+ years"
+          
+          echo "experience=${EXPERIENCE}" >> $GITHUB_OUTPUT
+          echo "experience_short=${EXPERIENCE_SHORT}" >> $GITHUB_OUTPUT
+          echo "current_date=${CURRENT_DATE}" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          # Update the experience line in README
+          sed -i "s/[0-9]\\+ years crafting software/${{ steps.calc.outputs.experience_short }} crafting software/" README.md
+          
+          # Also update the full experience line if it exists
+          sed -i "s/[0-9]\\+ years crafting software/${{ steps.calc.outputs.experience_short }} crafting software/" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: update experience to ${{ steps.calc.outputs.experience_short }} (as of ${{ steps.calc.outputs.current_date }})"
+            git push
+          else
+            echo "No changes needed"
+          fi
