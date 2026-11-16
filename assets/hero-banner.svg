@@ -22,7 +22,7 @@
     <style><![CDATA[
       .title { font-family: system-ui, sans-serif; font-weight: 700; font-size: 56px; fill: #22d3ee; letter-spacing: 0.02em; }
       .name { font-family: system-ui, sans-serif; font-weight: 700; font-size: 24px; fill: #f8fafc; letter-spacing: -0.02em; }
-      .skills { font-family: system-ui, sans-serif; font-weight: 500; font-size: 20px; fill: #22d3ee; letter-spacing: 0.01em; }
+      .skill-badge { font-family: system-ui, sans-serif; font-weight: 600; font-size: 14px; fill: #07111f; }
       .company { font-family: system-ui, sans-serif; font-weight: 400; font-size: 16px; fill: #94a3b8; }
       .tagline { font-family: system-ui, sans-serif; font-weight: 400; font-size: 15px; fill: #64748b; line-height: 1.6; }
       .tech-pill { font-family: system-ui, sans-serif; font-weight: 500; font-size: 12px; fill: #22d3ee; }
@@ -47,24 +47,44 @@
     <!-- Name -->
     <text x="0" y="100" class="name">SILAS ANGERA</text>
     
-    <!-- Skills (capitalized, each on new line) -->
-    <text x="0" y="140" class="skills">FULL STACK (BACKEND HEAVY)</text>
-    <text x="0" y="170" class="skills">MOBILE DEVELOPMENT</text>
-    <text x="0" y="200" class="skills">DATA ANALYSIS</text>
-    <text x="0" y="230" class="skills">DOCUMENT EDITING</text>
-    <text x="0" y="260" class="skills">CODE DEBUGGING</text>
+    <!-- Skills as badges - 3 per row -->
+    <g transform="translate(0, 130)">
+      <!-- Row 1 -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="320" height="38" rx="8" fill="#22d3ee"/>
+        <text x="160" y="24" class="skill-badge" text-anchor="middle">FULL STACK (BACKEND HEAVY)</text>
+      </g>
+      <g transform="translate(340, 0)">
+        <rect x="0" y="0" width="320" height="38" rx="8" fill="#22d3ee"/>
+        <text x="160" y="24" class="skill-badge" text-anchor="middle">MOBILE DEVELOPMENT</text>
+      </g>
+      <g transform="translate(680, 0)">
+        <rect x="0" y="0" width="320" height="38" rx="8" fill="#22d3ee"/>
+        <text x="160" y="24" class="skill-badge" text-anchor="middle">DATA ANALYSIS</text>
+      </g>
+      
+      <!-- Row 2 -->
+      <g transform="translate(0, 50)">
+        <rect x="0" y="0" width="320" height="38" rx="8" fill="#22d3ee"/>
+        <text x="160" y="24" class="skill-badge" text-anchor="middle">DOCUMENT EDITING</text>
+      </g>
+      <g transform="translate(340, 50)">
+        <rect x="0" y="0" width="320" height="38" rx="8" fill="#22d3ee"/>
+        <text x="160" y="24" class="skill-badge" text-anchor="middle">CODE DEBUGGING</text>
+      </g>
+    </g>
     
     <!-- Company -->
-    <text x="0" y="310" class="company">ANGISOFT TECHNOLOGIES &#8226; NAIROBI, KENYA</text>
+    <text x="0" y="240" class="company">ANGISOFT TECHNOLOGIES &#8226; NAIROBI, KENYA</text>
 
     <!-- Tagline -->
-    <text x="0" y="345" class="tagline" style="max-width: 600px;">
+    <text x="0" y="275" class="tagline" style="max-width: 600px;">
       Building production-grade platforms: multi-tenant ERPs, AI-powered career intelligence, 
       offline-first mobile apps, and scalable backend architectures.
     </text>
 
     <!-- Technology pillars -->
-    <g transform="translate(0, 380)">
+    <g transform="translate(0, 320)">
       <text class="tech-pill">SPRING BOOT  &#8226;  JAVA</text>
       <text x="145" class="tech-pill">FLUTTER  &#8226;  DART</text>
       <text x="285" class="tech-pill">REACT  &#8226;  NEXT.JS  &#8226;  TYPESCRIPT</text>
