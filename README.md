@@ -28,26 +28,26 @@ Building production-grade platforms across web, mobile, and backend — multi-te
 
 ### Languages
 ![PHP](https://skillicons.dev/icons?i=php&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark) ![Dart](https://skillicons.dev/icons?i=dart&theme=dark) ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark) ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark) ![SQL](https://skillicons.dev/icons?i=postgresql&theme=dark)  
-**Visual Basic** • **TypeScript**
+![Visual Basic](https://skillicons.dev/icons?i=visualstudio&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
 
 ### Frameworks & Libraries
-![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark) ![Vite](https://skillicons.dev/icons?i=vite&theme=dark) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark) ![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark) ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) ![Django](https://skillicons.dev/icons?i=django&theme=dark) ![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) ![Vite](https://skillicons.dev/icons?i=vite&theme=dark) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark) ![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark) ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) ![Django](https://skillicons.dev/icons?i=django&theme=dark) ![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
 
 ### Databases
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) **RoomDB**
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) ![RoomDB](https://img.shields.io/badge/RoomDB-757575?style=flat&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) ![Bash](https://skillicons.dev/icons?i=bash&theme=dark)
 
 ### Operating Systems
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark) **Kali Linux** • **Parrot OS**  
-![Windows](https://skillicons.dev/icons?i=windows&theme=dark) **macOS**
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark) ![Kali Linux](https://skillicons.dev/icons?i=kali&theme=dark) ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-3A7CA5?style=flat&logo=parrotos&logoColor=white)  
+![Windows](https://skillicons.dev/icons?i=windows&theme=dark) ![macOS](https://skillicons.dev/icons?i=apple&theme=dark)
 
 ### Data Analysis & Notebooks
-![Pandas](https://skillicons.dev/icons?i=pandas&theme=dark) ![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=dark) ![NumPy](https://skillicons.dev/icons?i=numpy&theme=dark) **Matplotlib**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ### Open Source Contributions
-**17 public gists** covering Java fundamentals, Dart/Flutter patterns, VB.NET basics  
+![Gists](https://img.shields.io/badge/GitHub%20Gists-17-181717?style=flat&logo=github&logoColor=white) 17 public gists covering Java fundamentals, Dart/Flutter patterns, VB.NET basics  
 [![View Gists](https://img.shields.io/badge/View%20Gists-17-181717?style=flat&logo=github&logoColor=white)](https://gist.github.com/Angera-Silas)
 
 ---
