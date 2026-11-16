@@ -148,7 +148,7 @@ Full-stack corporate website with admin CMS — services showcase, project portf
 
 <div align="center">
 
-**53 Repositories** · **29 Stars** · **23 Followers** · **Organization: [AngiSoft-Technologies](https://github.com/AngiSoft-Technologies)**
+![Repos](https://img.shields.io/github/repos/Angera-Silas?style=flat&color=22d3ee&logo=github&logoColor=white) ![Stars](https://img.shields.io/github/stars/Angera-Silas?style=flat&color=fbbf24&logo=github&logoColor=white) ![Followers](https://img.shields.io/github/followers/Angera-Silas?style=flat&color=38bdf8&logo=github&logoColor=white) [![Org](https://img.shields.io/badge/Org-AngiSoft--Technologies-0e7490?style=flat&logo=github&logoColor=white)](https://github.com/AngiSoft-Technologies)
 
 </div>
 
