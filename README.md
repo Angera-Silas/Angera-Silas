@@ -2,7 +2,7 @@
 
 # 
 
-<img src="https://raw.githubusercontent.com/Angera-Silas/Angera-Silas/main/assets/hero-banner.svg" alt="Silas Angera — Founder & Principal Engineer at AngiSoft Technologies" width="100%">
+<img src="https://raw.githubusercontent.com/Angera-Silas/Angera-Silas/main/assets/hero-banner.svg" alt="Silas Angera — Software Engineer, Full Stack Backend Heavy, Mobile Development, Data Analysis, Document Editing, Code Debugging at AngiSoft Technologies" width="100%">
 
 </div>
 
