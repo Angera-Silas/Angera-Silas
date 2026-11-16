@@ -10,7 +10,7 @@
 
 <div align="center">
 
-Building production-grade platforms across web, mobile, and backend — multi-tenant ERPs, AI-powered career intelligence, offline-first Flutter apps, and scalable distributed systems. 10+ years crafting software that solves real business problems in East Africa and beyond.
+Building production-grade platforms across web, mobile, and backend — multi-tenant ERPs, AI-powered career intelligence, offline-first Flutter apps, and scalable distributed systems. 3+ years crafting software that solves real business problems in East Africa and beyond.
 
 [![Website](https://img.shields.io/badge/AngiSoft%20Technologies-angisoft.co.ke-0e7490?style=for-the-badge&logo=globe&logoColor=white)](https://angisoft.co.ke)
 [![GitHub](https://img.shields.io/badge/GitHub-Angera--Silas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Angera-Silas)
