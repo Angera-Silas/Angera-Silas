@@ -20,8 +20,9 @@
       <stop offset="100%" stop-color="#07111f" stop-opacity="0"/>
     </linearGradient>
     <style><![CDATA[
+      .title { font-family: system-ui, sans-serif; font-weight: 700; font-size: 56px; fill: #22d3ee; letter-spacing: 0.02em; }
       .name { font-family: system-ui, sans-serif; font-weight: 700; font-size: 24px; fill: #f8fafc; letter-spacing: -0.02em; }
-      .role { font-family: system-ui, sans-serif; font-weight: 500; font-size: 56px; fill: #22d3ee; letter-spacing: 0.02em; text-transform: uppercase; }
+      .skills { font-family: system-ui, sans-serif; font-weight: 500; font-size: 20px; fill: #22d3ee; letter-spacing: 0.01em; }
       .company { font-family: system-ui, sans-serif; font-weight: 400; font-size: 16px; fill: #94a3b8; }
       .tagline { font-family: system-ui, sans-serif; font-weight: 400; font-size: 15px; fill: #64748b; line-height: 1.6; }
       .tech-pill { font-family: system-ui, sans-serif; font-weight: 500; font-size: 12px; fill: #22d3ee; }
@@ -40,28 +41,35 @@
 
   <!-- Main content -->
   <g transform="translate(100, 80)">
-    <!-- Name -->
-    <text x="0" y="40" class="name">Silas Angera</text>
+    <!-- Title: SOFTWARE ENGINEER -->
+    <text x="0" y="40" class="title">SOFTWARE ENGINEER</text>
     
-    <!-- Role / Title -->
-    <text x="0" y="100" class="role">Software Engineer  ·  Full Stack (Backend Heavy)  ·  Mobile Development  ·  Data Analysis  ·  Document Editing  ·  Code Debugging</text>
+    <!-- Name -->
+    <text x="0" y="100" class="name">SILAS ANGERA</text>
+    
+    <!-- Skills (capitalized, each on new line) -->
+    <text x="0" y="140" class="skills">FULL STACK (BACKEND HEAVY)</text>
+    <text x="0" y="170" class="skills">MOBILE DEVELOPMENT</text>
+    <text x="0" y="200" class="skills">DATA ANALYSIS</text>
+    <text x="0" y="230" class="skills">DOCUMENT EDITING</text>
+    <text x="0" y="260" class="skills">CODE DEBUGGING</text>
     
     <!-- Company -->
-    <text x="0" y="155" class="company">AngiSoft Technologies &#8226; Nairobi, Kenya</text>
+    <text x="0" y="310" class="company">ANGISOFT TECHNOLOGIES &#8226; NAIROBI, KENYA</text>
 
     <!-- Tagline -->
-    <text x="0" y="190" class="tagline" style="max-width: 600px;">
+    <text x="0" y="345" class="tagline" style="max-width: 600px;">
       Building production-grade platforms: multi-tenant ERPs, AI-powered career intelligence, 
       offline-first mobile apps, and scalable backend architectures.
     </text>
 
     <!-- Technology pillars -->
-    <g transform="translate(0, 240)">
-      <text class="tech-pill">Spring Boot  &#8226;  Java</text>
-      <text x="145" class="tech-pill">Flutter  &#8226;  Dart</text>
-      <text x="285" class="tech-pill">React  &#8226;  Next.js  &#8226;  TypeScript</text>
-      <text x="485" class="tech-pill">PostgreSQL  &#8226;  Redis</text>
-      <text x="640" class="tech-pill">Docker  &#8226;  Kubernetes</text>
+    <g transform="translate(0, 380)">
+      <text class="tech-pill">SPRING BOOT  &#8226;  JAVA</text>
+      <text x="145" class="tech-pill">FLUTTER  &#8226;  DART</text>
+      <text x="285" class="tech-pill">REACT  &#8226;  NEXT.JS  &#8226;  TYPESCRIPT</text>
+      <text x="485" class="tech-pill">POSTGRESQL  &#8226;  REDIS</text>
+      <text x="640" class="tech-pill">DOCKER  &#8226;  KUBERNETES</text>
     </g>
   </g>
 
