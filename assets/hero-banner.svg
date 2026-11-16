@@ -24,8 +24,6 @@
       .role { font-family: system-ui, sans-serif; font-weight: 500; font-size: 18px; fill: #22d3ee; letter-spacing: 0.08em; text-transform: uppercase; }
       .company { font-family: system-ui, sans-serif; font-weight: 400; font-size: 16px; fill: #94a3b8; }
       .tagline { font-family: system-ui, sans-serif; font-weight: 400; font-size: 15px; fill: #64748b; line-height: 1.6; }
-      .stat-value { font-family: system-ui, sans-serif; font-weight: 700; font-size: 26px; fill: #f8fafc; }
-      .stat-label { font-family: system-ui, sans-serif; font-weight: 400; font-size: 11px; fill: #64748b; text-transform: uppercase; letter-spacing: 0.05em; }
       .tech-pill { font-family: system-ui, sans-serif; font-weight: 500; font-size: 12px; fill: #22d3ee; }
     ]]></style>
   </defs>
@@ -70,40 +68,6 @@
       <text x="285" class="tech-pill">React  &#8226;  Next.js  &#8226;  TypeScript</text>
       <text x="485" class="tech-pill">PostgreSQL  &#8226;  Redis</text>
       <text x="640" class="tech-pill">Docker  &#8226;  Kubernetes</text>
-    </g>
-
-    <!-- GitHub Stats Card -->
-    <g transform="translate(840, 20)">
-      <rect x="0" y="0" width="520" height="240" rx="16" fill="#0b1a2f" stroke="#1e3a5f" stroke-width="1" opacity="0.9"/>
-      
-      <text x="260" y="44" class="role" text-anchor="middle" style="font-size: 14px; fill: #22d3ee;">GitHub Pulse</text>
-      
-      <g transform="translate(30, 70)">
-        <g transform="translate(0, 0)">
-          <text class="stat-value" text-anchor="middle" x="55">53</text>
-          <text class="stat-label" text-anchor="middle" x="55" y="26">Repositories</text>
-        </g>
-        <g transform="translate(130, 0)">
-          <text class="stat-value" text-anchor="middle" x="55">1,282</text>
-          <text class="stat-label" text-anchor="middle" x="55" y="26">Contributions</text>
-        </g>
-        <g transform="translate(260, 0)">
-          <text class="stat-value" text-anchor="middle" x="55">29</text>
-          <text class="stat-label" text-anchor="middle" x="55" y="26">Stars</text>
-        </g>
-        <g transform="translate(390, 0)">
-          <text class="stat-value" text-anchor="middle" x="55">23</text>
-          <text class="stat-label" text-anchor="middle" x="55" y="26">Followers</text>
-        </g>
-      </g>
-
-      <g transform="translate(30, 180)">
-        <rect x="0" y="0" width="230" height="36" rx="18" fill="#0e7490" opacity="0.2" stroke="#0e7490" stroke-width="1"/>
-        <text x="115" y="22" class="tech-pill" text-anchor="middle" style="font-size: 12px;">AngiSoft Technologies</text>
-        
-        <rect x="250" y="0" width="230" height="36" rx="18" fill="#0e7490" opacity="0.2" stroke="#0e7490" stroke-width="1"/>
-        <text x="365" y="22" class="tech-pill" text-anchor="middle" style="font-size: 12px;">Open to Collaboration</text>
-      </g>
     </g>
   </g>
 
