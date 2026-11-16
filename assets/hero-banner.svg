@@ -20,8 +20,8 @@
       <stop offset="100%" stop-color="#07111f" stop-opacity="0"/>
     </linearGradient>
     <style><![CDATA[
-      .name { font-family: system-ui, sans-serif; font-weight: 700; font-size: 56px; fill: #f8fafc; letter-spacing: -0.02em; }
-      .role { font-family: system-ui, sans-serif; font-weight: 500; font-size: 24px; fill: #22d3ee; letter-spacing: 0.08em; text-transform: uppercase; }
+      .name { font-family: system-ui, sans-serif; font-weight: 700; font-size: 24px; fill: #f8fafc; letter-spacing: -0.02em; }
+      .role { font-family: system-ui, sans-serif; font-weight: 500; font-size: 56px; fill: #22d3ee; letter-spacing: 0.08em; text-transform: uppercase; }
       .company { font-family: system-ui, sans-serif; font-weight: 400; font-size: 16px; fill: #94a3b8; }
       .tagline { font-family: system-ui, sans-serif; font-weight: 400; font-size: 15px; fill: #64748b; line-height: 1.6; }
       .tech-pill { font-family: system-ui, sans-serif; font-weight: 500; font-size: 12px; fill: #22d3ee; }
