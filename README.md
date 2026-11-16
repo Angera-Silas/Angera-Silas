@@ -2,7 +2,23 @@
 
 # 
 
-![Silas Angera — Founder & Principal Engineer at AngiSoft Technologies](assets/hero-banner.svg)
+![Silas Angera — Founder & Principal Engineer at AngiSoft Technologies](https://raw.githubusercontent.com/Angera-Silas/Angera-Silas/main/assets/hero-banner.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### Founder & Principal Engineer at **AngiSoft Technologies** · Nairobi, Kenya
+
+Building production-grade platforms across web, mobile, and backend — multi-tenant ERPs, AI-powered career intelligence, offline-first Flutter apps, and scalable distributed systems. 10+ years crafting software that solves real business problems in East Africa and beyond.
+
+[![Website](https://img.shields.io/badge/AngiSoft%20Technologies-angisoft.co.ke-0e7490?style=for-the-badge&logo=globe&logoColor=white)](https://angisoft.co.ke)
+[![GitHub](https://img.shields.io/badge/GitHub-Angera--Silas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Angera-Silas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-silas--angera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-angera)
+[![Twitter/X](https://img.shields.io/badge/Twitter-angera__silas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angera_silas)
+[![Email](https://img.shields.io/badge/Email-angerasilas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angerasilas@gmail.com)
 
 </div>
 
@@ -11,25 +27,28 @@
 ## Technology Expertise
 
 ### Languages
-![PHP](https://skillicons.dev/icons?i=php&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark) ![Dart](https://skillicons.dev/icons?i=dart&theme=dark) ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark) ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark) ![SQL](https://skillicons.dev/icons?i=postgresql&theme=dark)
+![PHP](https://skillicons.dev/icons?i=php&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark) ![Dart](https://skillicons.dev/icons?i=dart&theme=dark) ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark) ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark) ![SQL](https://skillicons.dev/icons?i=postgresql&theme=dark)  
+**Visual Basic** • **TypeScript**
 
 ### Frameworks & Libraries
 ![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark) ![Vite](https://skillicons.dev/icons?i=vite&theme=dark) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark) ![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark) ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) ![Django](https://skillicons.dev/icons?i=django&theme=dark) ![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
 
 ### Databases
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) ![RoomDB](https://img.shields.io/badge/RoomDB-757575?style=flat&logo=android&logoColor=white)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) **RoomDB**
 
 ### Tools & Platforms
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) ![Bash](https://skillicons.dev/icons?i=bash&theme=dark)
 
 ### Operating Systems
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark) ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Parrot](https://img.shields.io/badge/Parrot%20OS-3A7CA5?style=flat&logo=parrotsecurity&logoColor=white) ![Windows](https://skillicons.dev/icons?i=windows&theme=dark) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark) **Kali Linux** • **Parrot OS**  
+![Windows](https://skillicons.dev/icons?i=windows&theme=dark) **macOS**
 
 ### Data Analysis & Notebooks
-![Pandas](https://skillicons.dev/icons?i=pandas&theme=dark) ![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=dark) ![NumPy](https://skillicons.dev/icons?i=numpy&theme=dark) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Pandas](https://skillicons.dev/icons?i=pandas&theme=dark) ![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=dark) ![NumPy](https://skillicons.dev/icons?i=numpy&theme=dark) **Matplotlib**
 
 ### Open Source Contributions
-![Gists](https://img.shields.io/badge/GitHub%20Gists-17-181717?style=flat&logo=github&logoColor=white) 17 public gists covering Java fundamentals, Dart/Flutter patterns, VB.NET basics
+**17 public gists** covering Java fundamentals, Dart/Flutter patterns, VB.NET basics  
+[![View Gists](https://img.shields.io/badge/View%20Gists-17-181717?style=flat&logo=github&logoColor=white)](https://gist.github.com/Angera-Silas)
 
 ---
 
@@ -39,7 +58,7 @@
 **`AngiSoft-Technologies/ai-career-platform`**  •  **Live:** [mboqara.angisoft.co.ke](https://mboqara.angisoft.co.ke)  •  **Stack:** Flutter, Dart, Next.js 16, React 19, TypeScript, Tailwind CSS 4, Neon Auth, PostgreSQL, BullMQ, Redis
 
 <div align="center">
-<a href="https://mboqara.angisoft.co.ke"><img src="assets/mboqara-og-cover.jpg" alt="MboQara — AI career platform homepage" width="100%" style="max-width: 800px; border-radius: 12px; border: 1px solid #1e3a5f;"></a>
+<a href="https://mboqara.angisoft.co.ke"><img src="https://raw.githubusercontent.com/Angera-Silas/Angera-Silas/main/assets/mboqara-og-cover.jpg" alt="MboQara — AI career platform homepage" width="100%" style="max-width: 800px; border-radius: 12px; border: 1px solid #1e3a5f;"></a>
 </div>
 
 AI-powered career platform for job seekers — discovers live roles across job boards, scores matches against your profile, generates tailored CVs and cover letters, tracks every application end-to-end. Offline-first Flutter mobile app with SQLite + background sync. Neon Auth (Managed Better Auth) with Google OAuth. Real-time job matching via Neon AI Gateway.
@@ -94,9 +113,9 @@ Modern BMI calculator demonstrating advanced Flutter widget customization — cu
 <div align="center">
 <table>
 <tr>
-<td align="center"><img src="assets/bmi-input.jpg" alt="BMI Input Screen" width="200"><br><sub>Input Screen</sub></td>
-<td align="center"><img src="assets/bmi-results.jpg" alt="BMI Results Screen" width="200"><br><sub>Results Screen</sub></td>
-<td align="center"><img src="assets/bmi-history.jpg" alt="BMI History Screen" width="200"><br><sub>History Screen</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Angera-Silas/Angera-Silas/main/assets/bmi-input.jpg" alt="BMI Input Screen" width="200"><br><sub>Input Screen</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Angera-Silas/Angera-Silas/main/assets/bmi-results.jpg" alt="BMI Results Screen" width="200"><br><sub>Results Screen</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Angera-Silas/Angera-Silas/main/assets/bmi-history.jpg" alt="BMI History Screen" width="200"><br><sub>History Screen</sub></td>
 </tr>
 </table>
 </div>
@@ -148,21 +167,6 @@ Selected educational gists — Java fundamentals, Dart/Flutter patterns, VB.NET 
 | **VB.NET** | 5 | Area calculations, loops, type conversion, basic arithmetic |
 
 [![View All Gists](https://img.shields.io/badge/View%20All%20Gists-17-1e3a5f?style=for-the-badge&logo=github&logoColor=22d3ee)](https://gist.github.com/Angera-Silas)
-
----
-
-## Professional Links
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/AngiSoft%20Technologies-angisoft.co.ke-0e7490?style=for-the-badge&logo=globe&logoColor=white)](https://angisoft.co.ke)
-[![GitHub](https://img.shields.io/badge/GitHub-Angera--Silas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Angera-Silas)
-[![GitHub Org](https://img.shields.io/badge/Org-AngiSoft--Technologies-0e7490?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngiSoft-Technologies)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-silas--angera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-angera)
-[![Twitter/X](https://img.shields.io/badge/Twitter-angera__silas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angera_silas)
-[![Email](https://img.shields.io/badge/Email-angerasilas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angerasilas@gmail.com)
-
-</div>
 
 ---
 
